@@ -1,0 +1,32 @@
+.typed-out{
+    margin-bottom: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+h4 a {
+    margin: 5px;
+}
+h3 {
+    color: #292b2c;
+    margin-left: 10%;
+}
+ul li {
+    color: #d9534f;
+    margin: 10px;
+    margin-left: 8%;
+}
+
+#newContainer{
+    display: flex;
+    flex-direction: column;
+
+}
+.containerOne{
+    display: flex;
+}
+
+

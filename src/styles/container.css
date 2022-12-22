@@ -1,0 +1,21 @@
+body {
+    background-color: #f7f7f7;
+    background-image: url(../assets/resource-database-rkQdROHIwFk-unsplash.jpg);
+    background-repeat: no-repeat;    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+.boxContainer{
+    position: relative;
+    background-color:#f7f7f7;
+    padding: 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 10%;
+    margin-top: 8%;
+    border: 1px solid;
+    border-radius: 100px;
+}

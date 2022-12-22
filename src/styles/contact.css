@@ -1,0 +1,48 @@
+.form{
+    padding: 67.5px;
+}
+
+.submitMessage{
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+    background-color: #3B71CA;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+.form-field{
+    margin: 10px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+    width: 90%;
+}
+
+span{
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #DC4C64;
+}
+@media only screen and (min-width: 600px) {
+    span {
+      margin: 20px;
+    }
+  }
+  @media only screen and (min-width: 1000px) {
+    span {
+      margin: 80px;
+    }
+  }
+.submit-btn{
+    margin: 20px;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 50%;
+    width: 50%;
+    background:  #d9534f;
+    color: white;
+    cursor: pointer;
+}
