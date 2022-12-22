@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/david-herrings-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/david-herrings-portfolio/static/js/main.7427c7c2.js",
-    "static/js/787.3d9cdc19.chunk.js": "/david-herrings-portfolio/static/js/787.3d9cdc19.chunk.js",
-    "static/media/logo.svg": "/david-herrings-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/david-herrings-portfolio/static/css/main.71a0edac.css",
+    "main.js": "/david-herrings-portfolio/static/js/main.04b88d5f.js",
+    "static/media/resource-database-rkQdROHIwFk-unsplash.jpg": "/david-herrings-portfolio/static/media/resource-database-rkQdROHIwFk-unsplash.8d1d347feb366bb797e0.jpg",
+    "static/media/DadJokes.jpeg": "/david-herrings-portfolio/static/media/DadJokes.6bb79e46c191feac3a98.jpeg",
+    "static/media/e-commerce.jpeg": "/david-herrings-portfolio/static/media/e-commerce.5a15bd63116c2e43fd3d.jpeg",
+    "static/media/quiz.jpeg": "/david-herrings-portfolio/static/media/quiz.0dd15b1ffe90e1acbb66.jpeg",
+    "static/media/planner.jpeg": "/david-herrings-portfolio/static/media/planner.3aed349b79a8137b7953.jpeg",
+    "static/media/weather.jpeg": "/david-herrings-portfolio/static/media/weather.cb0ecc92705c593ab245.jpeg",
+    "static/media/password.jpeg": "/david-herrings-portfolio/static/media/password.5e1265519b1625a0bac0.jpeg",
+    "static/media/profilePicture.JPG": "/david-herrings-portfolio/static/media/profilePicture.84b7a42a6b4de9f984b2.JPG",
     "index.html": "/david-herrings-portfolio/index.html",
-    "main.073c9b0a.css.map": "/david-herrings-portfolio/static/css/main.073c9b0a.css.map",
-    "main.7427c7c2.js.map": "/david-herrings-portfolio/static/js/main.7427c7c2.js.map",
-    "787.3d9cdc19.chunk.js.map": "/david-herrings-portfolio/static/js/787.3d9cdc19.chunk.js.map"
+    "main.71a0edac.css.map": "/david-herrings-portfolio/static/css/main.71a0edac.css.map",
+    "main.04b88d5f.js.map": "/david-herrings-portfolio/static/js/main.04b88d5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7427c7c2.js"
+    "static/css/main.71a0edac.css",
+    "static/js/main.04b88d5f.js"
   ]
 }
