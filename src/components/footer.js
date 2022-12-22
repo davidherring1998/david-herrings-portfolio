@@ -14,8 +14,8 @@ const styles = {
     backgroundColor: "#292b2c",
     color: "white",
     textAlign: "center",
-    height: "65px",
-    padding: "0px",
+    height: "75px",
+    paddingTop: "10px",
   },
   icon: {
     paddingRight: '20px',
