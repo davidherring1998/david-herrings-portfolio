@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/david-herrings-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/david-herrings-portfolio/static/js/main.7427c7c2.js",
+    "static/js/787.3d9cdc19.chunk.js": "/david-herrings-portfolio/static/js/787.3d9cdc19.chunk.js",
+    "static/media/logo.svg": "/david-herrings-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/david-herrings-portfolio/index.html",
+    "main.073c9b0a.css.map": "/david-herrings-portfolio/static/css/main.073c9b0a.css.map",
+    "main.7427c7c2.js.map": "/david-herrings-portfolio/static/js/main.7427c7c2.js.map",
+    "787.3d9cdc19.chunk.js.map": "/david-herrings-portfolio/static/js/787.3d9cdc19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7427c7c2.js"
+  ]
+}
