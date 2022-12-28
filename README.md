@@ -7,9 +7,14 @@ When the user enters into the portfolio section, a list of previous websites I h
 
 ## Links; 
 Repo:
+ https://github.com/davidherring1998/david-herrings-portfolio
  https://github.com/davidherring1998/React-Portfolio-
+ 
+ 
 Deployment:
  https://davidherring1998.github.io/david-herrings-portfolio/
+ 
+ 
 Video walk-through:
  https://drive.google.com/file/d/13VtwEr9tlVllmb9xstI_l5j-i2SZE67b/view
 
