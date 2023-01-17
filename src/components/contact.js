@@ -8,16 +8,6 @@ import '../styles/contact.css'
 function Contact() {
   const form = useRef();
 
-const sendEmail = (e) => {
-  e.preventDefault();
-  emailjs.sendForm('default_service', 'template_phruftb', form.current, 'lT6wLIZpzCvWP-uAm')
-    .then((result) => {
-        console.log(result.text);
-    }, (error) => {
-        console.log(error.text);
-    });
-};
-
   const [values, setValues] = useState({
     name: "",
     email: "",
@@ -36,18 +26,32 @@ const sendEmail = (e) => {
     setValues({...values, email: e.target.value})
   }
 
+  const handleSubject = (e) => {
+    setValues({...values, subject: e.target.value})
+  }
+
   const handleMessage = (e) => {
     setValues({...values, message: e.target.value})
   }
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
     if(values.name && values.email && values.message){
       setValid(true)
     }
     setSubmitted(true)
-  
   }
+
+  const sendEmail = (e) => {
+    // e.preventDefault();
+    emailjs.sendForm('default_service', 'template_phruftb', form.current, 'lT6wLIZpzCvWP-uAm')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+      handleSubmit()
+  };
   return (
     <div className="boxContainer" id="form-container">
       <h2>Contact </h2>
@@ -68,12 +72,19 @@ const sendEmail = (e) => {
         name="email" />{" "}
         {submitted && !values.email ? <span>Please enter a valid email</span> : null}
         <input
+        onChange={handleSubject}
+        value={values.subject} 
+        className="form-field"
+        placeholder="Subject.."
+        name="subject" />
+        { submitted && !values.subject ? <span>Please enter a subject</span> : null}
+        <input
         onChange={handleMessage}
         value={values.message} 
         className="form-field"
-        placeholder="Subject.."
+        placeholder="Message.."
         name="message" />
-        { submitted && !values.message ? <span>Please enter a subject</span> : null}
+        {/* { submitted && !values.message ? <span>Please enter a message</span> : null} */}
        <input 
        className="submit-btn"
        type="submit"
