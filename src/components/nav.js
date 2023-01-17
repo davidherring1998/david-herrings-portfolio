@@ -19,7 +19,8 @@ const styles = {
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
-      <div className="header">David Herring's Portfolio</div>
+      <div className="header">
+        <h1 className="headerText">David Herring's Portfolio</h1></div>
 
 
 

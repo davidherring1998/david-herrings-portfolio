@@ -5,11 +5,20 @@ body {
 }
 
 .header{
-    padding: 5px;
-    background-color:#22282b;
+    padding: .4px;
+    /* background-color:#22282b; */
+    background-color: white;
     color:#f7f7f7;
     text-align: center;
-    font-size: 2vw;
+    font-size: ".4rem";
+    color: #d9534f;
+    text-align: left;
+}
+
+.headerText{
+    font-size: 1rem;
+    margin-left: 2%;
+    margin-top: .5%;
 }
 
 p {
