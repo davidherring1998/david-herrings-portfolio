@@ -1,9 +1,22 @@
-import React from "react";
-import { useState } from "react";
+import React, { useRef, useState } from 'react';
+import emailjs from '@emailjs/browser';
 import '../styles/contact.css'
 
-function Contact() {
 
+
+
+function Contact() {
+  const form = useRef();
+
+const sendEmail = (e) => {
+  e.preventDefault();
+  emailjs.sendForm('default_service', 'template_phruftb', form.current, 'lT6wLIZpzCvWP-uAm')
+    .then((result) => {
+        console.log(result.text);
+    }, (error) => {
+        console.log(error.text);
+    });
+};
 
   const [values, setValues] = useState({
     name: "",
@@ -39,7 +52,7 @@ function Contact() {
     <div className="boxContainer" id="form-container">
       <h2>Contact </h2>
       {submitted && valid ? <div className="submitMessage">Success! Thank you for your submission</div> : null}
-      <form onSubmit={handleSubmit} className='form'>
+      <form onSubmit={handleSubmit} className='form'ref={form}>
         <input
         onChange={handleName}
         value={values.name}
@@ -64,6 +77,8 @@ function Contact() {
        <input 
        className="submit-btn"
        type="submit"
+       onClick={sendEmail}
+
         />
       </form>
     </div>
