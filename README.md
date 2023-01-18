@@ -1,7 +1,7 @@
 ## React Portfolio 
 
 
-##About:
+## About:
 
 This is a single page portfolio website build using React. When the user loads the page they are presented with a header, section, and footer containing links to other platforms. When the user is in the home section, (default) the user is presented with a photo of a avatar and a about section.
 
@@ -21,7 +21,7 @@ Deployment:
 Video walk-through:
 https://drive.google.com/file/d/1SQX_WWnL3t0534pfp_WSiPHSpKiaj06M/view
 
-Screenshots: 
+## Screenshots: 
 
 <img width="1512" alt="Screenshot 2023-01-18 at 8 14 09 AM" src="https://user-images.githubusercontent.com/106282330/213193913-f9e48bf7-dc8e-4d1d-8338-6af3b2480591.png">
 <img width="1512" alt="Screenshot 2023-01-18 at 8 14 00 AM" src="https://user-images.githubusercontent.com/106282330/213193919-8c119778-4b29-484a-bf1b-c49ef9894b6d.png">
