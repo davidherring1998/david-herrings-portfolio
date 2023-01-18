@@ -35,7 +35,7 @@ function Contact() {
   }
 
   const handleSubmit = (e) => {
-    // e.preventDefault();
+    e.preventDefault();
     if(values.name && values.email && values.message){
       setValid(true)
     }
