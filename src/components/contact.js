@@ -69,7 +69,7 @@ function Contact() {
         value={values.email} 
         className="form-field" 
         placeholder="Email.." 
-        name="email" />{" "}
+        name="email" />
         {submitted && !values.email ? <span>Please enter a valid email</span> : null}
         <input
         onChange={handleSubject}
