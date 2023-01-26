@@ -7,7 +7,7 @@ import Planner from "../assets/planner.jpeg";
 import Quiz from "../assets/quiz.jpeg";
 import E from "../assets/e-commerce.jpeg";
 import Weather from "../assets/weather.jpeg";
-import Aura from '../assets/weather.jpeg';
+import Aura from '../assets/aura.png';
 
 function Portfolio() {
   return (
@@ -18,7 +18,7 @@ function Portfolio() {
       <a href="https://dadjokesgalore.herokuapp.com/" target='blank'>
           <img src={Jokes} alt="Dad Jokes app"></img>
         </a>
-        <a href="" target='blank'>
+        <a href="https://aura-travel.herokuapp.com/" target='blank'>
           <img src={Aura} alt="Dad Jokes app"></img>
         </a>
 
