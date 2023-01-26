@@ -1,5 +1,5 @@
 {
-  "homepage": "https://davidherring1998.github.oi/david-herrings-portfolio",
+  "homepage": "https://davidherring1998.github.io/new-portfolio",
   "name": "react-portfolio-",
   "version": "0.1.0",
   "private": true,
@@ -25,17 +25,17 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build", 
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eje ct"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-App",
+      "react-App/jest"
     ]
   },
   "browserslist": {
