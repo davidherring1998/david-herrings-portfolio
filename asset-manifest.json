@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/david-herrings-portfolio/static/css/main.89965a52.css",
-    "main.js": "/david-herrings-portfolio/static/js/main.09b179ee.js",
-    "static/media/resource-database-rkQdROHIwFk-unsplash.jpg": "/david-herrings-portfolio/static/media/resource-database-rkQdROHIwFk-unsplash.8d1d347feb366bb797e0.jpg",
-    "static/media/DadJokes.jpeg": "/david-herrings-portfolio/static/media/DadJokes.6bb79e46c191feac3a98.jpeg",
-    "static/media/e-commerce.jpeg": "/david-herrings-portfolio/static/media/e-commerce.5a15bd63116c2e43fd3d.jpeg",
-    "static/media/quiz.jpeg": "/david-herrings-portfolio/static/media/quiz.0dd15b1ffe90e1acbb66.jpeg",
-    "static/media/planner.jpeg": "/david-herrings-portfolio/static/media/planner.3aed349b79a8137b7953.jpeg",
-    "static/media/weather.jpeg": "/david-herrings-portfolio/static/media/weather.cb0ecc92705c593ab245.jpeg",
-    "static/media/password.jpeg": "/david-herrings-portfolio/static/media/password.5e1265519b1625a0bac0.jpeg",
-    "static/media/profilePicture.JPG": "/david-herrings-portfolio/static/media/profilePicture.84b7a42a6b4de9f984b2.JPG",
-    "index.html": "/david-herrings-portfolio/index.html",
-    "main.89965a52.css.map": "/david-herrings-portfolio/static/css/main.89965a52.css.map",
-    "main.09b179ee.js.map": "/david-herrings-portfolio/static/js/main.09b179ee.js.map"
+    "main.css": "/new-portfolio/static/css/main.5166c665.css",
+    "main.js": "/new-portfolio/static/js/main.506d8c2b.js",
+    "static/media/resource-database-rkQdROHIwFk-unsplash.jpg": "/new-portfolio/static/media/resource-database-rkQdROHIwFk-unsplash.8d1d347feb366bb797e0.jpg",
+    "static/media/DadJokes.jpeg": "/new-portfolio/static/media/DadJokes.6bb79e46c191feac3a98.jpeg",
+    "static/media/e-commerce.jpeg": "/new-portfolio/static/media/e-commerce.5a15bd63116c2e43fd3d.jpeg",
+    "static/media/aura.png": "/new-portfolio/static/media/aura.9894e118056ae527f746.png",
+    "static/media/quiz.jpeg": "/new-portfolio/static/media/quiz.0dd15b1ffe90e1acbb66.jpeg",
+    "static/media/planner.jpeg": "/new-portfolio/static/media/planner.3aed349b79a8137b7953.jpeg",
+    "static/media/weather.jpeg": "/new-portfolio/static/media/weather.cb0ecc92705c593ab245.jpeg",
+    "static/media/password.jpeg": "/new-portfolio/static/media/password.5e1265519b1625a0bac0.jpeg",
+    "static/media/profilePicture.JPG": "/new-portfolio/static/media/profilePicture.84b7a42a6b4de9f984b2.JPG",
+    "index.html": "/new-portfolio/index.html",
+    "main.5166c665.css.map": "/new-portfolio/static/css/main.5166c665.css.map",
+    "main.506d8c2b.js.map": "/new-portfolio/static/js/main.506d8c2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.89965a52.css",
-    "static/js/main.09b179ee.js"
+    "static/css/main.5166c665.css",
+    "static/js/main.506d8c2b.js"
   ]
 }
