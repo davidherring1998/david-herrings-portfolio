@@ -4,10 +4,10 @@ import "../styles/portfolio.css";
 import Jokes from "../assets/DadJokes.jpeg";
 import Password from "../assets/password.jpeg";
 import Planner from "../assets/planner.jpeg";
-import Bored from '../assets/boredapp.jpeg'
+import Bored from "../assets/boredapp.jpeg";
 import E from "../assets/e-commerce.jpeg";
-import Weather from "../assets/weather.jpeg";
-import Goal from "../assets/goal.png";
+import Lorem from "../assets/lorem.jpeg";
+import Goal from "../assets/goal.jpeg";
 
 function Portfolio() {
   return (
@@ -23,20 +23,17 @@ function Portfolio() {
         </a>
 
         <a
-          href="https://davidherring1998.github.io/Weather-Dashboard/"
+          href="https://github.com/davidherring1998/lorem-photography"
           target="blank"
         >
-          <img src={Weather} alt="Weather app"></img>
+          <img src={Lorem} alt="Lorem-photography app"></img>
         </a>
 
         <a href="https://github.com/davidherring1998/E-commerce" target="blank">
           <img src={E} alt="E-Commerce app"></img>
         </a>
 
-        <a
-          href="https://davidherring1998.github.io/BoredApp/"
-          target="blank"
-        >
+        <a href="https://davidherring1998.github.io/BoredApp/" target="blank">
           <img src={Bored} alt="Bored html application"></img>
         </a>
 
