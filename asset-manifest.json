@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/david-herrings-portfolio/static/css/main.35ed81c9.css",
-    "main.js": "/david-herrings-portfolio/static/js/main.57bdf9fa.js",
+    "main.js": "/david-herrings-portfolio/static/js/main.8e15a39f.js",
     "static/media/resource-database-rkQdROHIwFk-unsplash.jpg": "/david-herrings-portfolio/static/media/resource-database-rkQdROHIwFk-unsplash.8d1d347feb366bb797e0.jpg",
+    "static/media/boredapp.jpeg": "/david-herrings-portfolio/static/media/boredapp.0368c5e627f35e979ff3.jpeg",
     "static/media/DadJokes.jpeg": "/david-herrings-portfolio/static/media/DadJokes.6bb79e46c191feac3a98.jpeg",
     "static/media/e-commerce.jpeg": "/david-herrings-portfolio/static/media/e-commerce.5a15bd63116c2e43fd3d.jpeg",
-    "static/media/aura.png": "/david-herrings-portfolio/static/media/aura.9894e118056ae527f746.png",
-    "static/media/quiz.jpeg": "/david-herrings-portfolio/static/media/quiz.0dd15b1ffe90e1acbb66.jpeg",
     "static/media/planner.jpeg": "/david-herrings-portfolio/static/media/planner.3aed349b79a8137b7953.jpeg",
+    "static/media/goal.png": "/david-herrings-portfolio/static/media/goal.77c431816d41b60000c3.png",
     "static/media/weather.jpeg": "/david-herrings-portfolio/static/media/weather.cb0ecc92705c593ab245.jpeg",
     "static/media/password.jpeg": "/david-herrings-portfolio/static/media/password.5e1265519b1625a0bac0.jpeg",
     "static/media/profilePicture.JPG": "/david-herrings-portfolio/static/media/profilePicture.84b7a42a6b4de9f984b2.JPG",
     "index.html": "/david-herrings-portfolio/index.html",
     "main.35ed81c9.css.map": "/david-herrings-portfolio/static/css/main.35ed81c9.css.map",
-    "main.57bdf9fa.js.map": "/david-herrings-portfolio/static/js/main.57bdf9fa.js.map"
+    "main.8e15a39f.js.map": "/david-herrings-portfolio/static/js/main.8e15a39f.js.map"
   },
   "entrypoints": [
     "static/css/main.35ed81c9.css",
-    "static/js/main.57bdf9fa.js"
+    "static/js/main.8e15a39f.js"
   ]
 }
