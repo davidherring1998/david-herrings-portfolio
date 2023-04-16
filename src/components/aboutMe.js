@@ -17,7 +17,7 @@ function Section() {
           early 20s, I have found that I thrive in goal-driven,
           problem-solving-oriented work. This realization led me down an
           information technology path consisting of front-end and back-end web
-          development and many customer service skills. I recently graduated
+          development along with  many customer service skills. I recently graduated
           from a Vanderbilt coding boot camp and am now currently in the process
           of enrolling in a college for computer science.
         </p>

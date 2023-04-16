@@ -4,7 +4,7 @@ import "../styles/portfolio.css";
 import Jokes from "../assets/DadJokes.jpeg";
 import Password from "../assets/password.jpeg";
 import Planner from "../assets/planner.jpeg";
-import Quiz from "../assets/quiz.jpeg";
+import Bored from '../assets/boredapp.jpeg'
 import E from "../assets/e-commerce.jpeg";
 import Weather from "../assets/weather.jpeg";
 import Goal from "../assets/goal.png";
@@ -34,10 +34,10 @@ function Portfolio() {
         </a>
 
         <a
-          href="https://davidherring1998.github.io/Javascript-Quiz/"
+          href="https://davidherring1998.github.io/BoredApp/"
           target="blank"
         >
-          <img src={Quiz} alt="Javascript Quiz app"></img>
+          <img src={Bored} alt="Bored html application"></img>
         </a>
 
         <a
