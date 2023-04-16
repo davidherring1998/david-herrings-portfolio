@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import "../styles/container.css"
+import "../styles/container.css";
 
 const styles = {
   name: {
@@ -12,19 +12,13 @@ const styles = {
     paddingLeft: "5%",
   },
   bar: {
-    height: '65px'
+    height: "65px",
   },
 };
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
-      <div className="header">
-        <h1 className="headerText">David Herring's Portfolio</h1></div>
-
-
-
-
       <Navbar bg="dark" variant="dark" sticky="top" style={styles.bar}>
         <Container>
           <Navbar.Brand href="#" style={styles.name}>
